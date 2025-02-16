@@ -21,3 +21,57 @@ Git – это система контроля версий которая по�
 После скачки файла, открываем его
 
 Шаг №1
+
+![step1](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-03.jpg)
+
+Шаг №2
+
+![step2](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-17.jpg)
+
+Шаг №3
+
+![step3](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-22.jpg)
+
+Шаг №4
+
+![step4](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-26.jpg)
+
+Шаг №5
+
+![step5](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-30.jpg)
+
+Шаг №6
+
+![step6](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-34.jpg)
+
+Шаг №7
+
+![step7](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-37.jpg)
+
+Шаг №8
+
+![step8](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-40.jpg)
+
+Шаг №9
+
+![step9](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-44.jpg)
+
+Шаг №10
+
+![step10](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-47.jpg)
+
+Шаг №11
+
+![step11](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-51.jpg)
+
+Шаг №12
+
+![step12](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-53.jpg)
+
+Шаг №13
+
+![step13](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-38-57.jpg)
+
+Шаг №14
+
+![step14](https://github.com/Wilsonyc-Official/Git-Guide-by-Wilsonyc/blob/main/Other/Download_ScreenShots/photo_2025-02-16_23-39-00.jpg)
